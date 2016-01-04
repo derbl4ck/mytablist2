@@ -1,0 +1,12 @@
+name: MyTablist2
+main: de.devxpress.mytablist2.Main
+Author: derbl4ck
+version: 2.3.8
+commands:
+     mytablist:
+          description: MyTabList Main command
+          usage: |
+            /<command> <subcommand>
+            /<command> reload -- Reloads the plugin.
+            /<command> setvar <variable> <value> -- Changes the value of a variable.
+            /<command> debuginfo -- Shows an error screen for the Developers of MyTablist.
